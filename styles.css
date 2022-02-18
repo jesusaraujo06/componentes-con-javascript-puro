@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+.tech {
+  display: flex;
+  align-items: center;
+  border: 1px solid gray;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4rem;
+  width: 8rem;
+  margin: 1rem auto;
+}
+
+.tech img {
+  width: 2rem;
+  border-radius: 50%;
+  border: 1px solid gray;
+  margin-right: 0.5rem;
+}
